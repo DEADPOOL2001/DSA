@@ -7,3 +7,5 @@
 5) problem of hashmap :- Implement a hashmap with o(1) insert,delete,search operation in average cases (same as unordered map).
 6) problem of BST :- Find the corresponding BST From the Given preorder Traversal of it.
 7) problem of fenwick tree :- https://www.spoj.com/problems/SUMSUM/
+8) problem of articulation points
+9) problem of bridges
